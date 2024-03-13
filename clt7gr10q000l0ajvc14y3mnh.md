@@ -1,8 +1,8 @@
 ---
 title: "Unleashing the power of ELT in AWS using Airbyte"
-seoTitle: "Unlock Big Data Insights: A Beginner's Guide to ELT with Airbyte & S3 "
+seoTitle: "Unlock Big Data Insights: A Beginner's Guide to ELT with Airbyte & S3"
 seoDescription: "This comprehensive guide explores the ELT approach for data processing in AWS, utilizing Amazon S3 as your data lake. We also introduce Airbyte, an open-sou"
-datePublished: Thu Feb 29 2024 16:52:11 GMT+0000 (Coordinated Universal Time)
+datePublished: Sun Nov 19 2023 06:15:00 GMT+0000 (Coordinated Universal Time)
 cuid: clt7gr10q000l0ajvc14y3mnh
 slug: unleashing-the-power-of-elt-in-aws-using-airbyte
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709225397047/6e9a8f1f-5b72-441f-b8e8-0c8f509d96cd.png
